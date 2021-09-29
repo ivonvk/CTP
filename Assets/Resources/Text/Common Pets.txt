@@ -1,0 +1,11 @@
+Cat
+Dog
+Goldfish
+Hamster
+Kitten
+Mouse
+Parrot
+Puppy
+Rabbit
+Tropical fish
+Turtle
